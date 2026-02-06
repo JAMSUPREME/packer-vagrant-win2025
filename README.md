@@ -1,4 +1,11 @@
-# packer-vagrant-win2025
+# Shortcut pre-baked win images
+
+At a glance, looking at using one of the following:
+- https://portal.cloud.hashicorp.com/vagrant/discover/chocolatey/test-environment - should work?
+- See other options here: https://portal.cloud.hashicorp.com/vagrant/discover?providers=virtualbox&query=windows%202025
+- 
+
+# Manual packer setup (TBD)
 
 Stuff for packer and vagrant to run win 2025 on a mac against VirtualBox
 
